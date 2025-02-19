@@ -1,4 +1,18 @@
-*.sonos.com
-sonos.com
-msmetrics.ws.sonos.com
-spm-telemetry.sonos.com
+[Adblock Plus]
+! Title: Sonos & Essential Services Allowlist
+! Description: Ensures Sonos and other important services work correctly by whitelisting necessary domains.
+! Homepage: https://yourcustomlist.com
+! License: Public Domain
+! Issues: Report issues at your support platform
+! Expires: 7 days
+! Syntax: AdBlock
+
+@@||sonos.com^
+@@||msmetrics.ws.sonos.com^
+@@||spm-telemetry.sonos.com^
+@@||api.sonos.com^
+@@||email.sonos.com^
+@@||musicpartners.sonos.com^
+@@||ocsp.sonos.com^
+@@||status.sonos.com^
+@@||update-firmware.sonos.com^
