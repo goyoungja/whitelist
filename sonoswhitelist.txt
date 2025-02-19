@@ -1,0 +1,4 @@
+*.sonos.com
+sonos.com
+msmetrics.ws.sonos.com
+spm-telemetry.sonos.com
